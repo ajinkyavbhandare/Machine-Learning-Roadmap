@@ -1,5 +1,4 @@
-
-##Introduction
+## Introduction
 
 ## Contents
 - [Prerequisite](https://github.com/ajinkyavbhandare/Machine-Learning-Roadmap#Prerquisite)
