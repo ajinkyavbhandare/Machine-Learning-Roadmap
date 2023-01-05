@@ -3,6 +3,7 @@
 
 ## Contents
 - [Prerequisite](https://github.com/ajinkyavbhandare/Machine-Learning-Roadmap#Prerquisite)
+- [Prerequisite](https://github.com/ajinkyavbhandare/Machine-Learning-Roadmap#Prerquisite)
 - [Machine Learning](https://github.com/ajinkyavbhandare/Machine-Learning-Roadmap#Machine Learning)
 - [Prerequisite](https://github.com/ajinkyavbhandare/Machine-Learning-Roadmap#Advance Machine Learning)
 - [Prerequisite](https://github.com/ajinkyavbhandare/Machine-Learning-Roadmap#Machine Learning System Design)
