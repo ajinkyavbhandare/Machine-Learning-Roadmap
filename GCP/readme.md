@@ -1,0 +1,6 @@
+- [youtube](https://www.youtube.com/watch?v=ElvtL1jH5tM&list=PLQMsfKRZZviR6NAoNOx_FFKbC1m_qZAuT)
+- [github](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/professional-cloud-developer.md)
+- [practice-labs](https://www.cloudskillsboost.google/)
+- [GCP prep sheets by Ammett Williams](https://startcloudnow.com/index.html)
+- [GCP command Line Cheat sheet](https://cloud.google.com/sdk/docs/cheatsheet)
+- [GCP Developer's Cheat sheet ](https://googlecloudcheatsheet.withgoogle.com/)
