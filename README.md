@@ -18,7 +18,7 @@ We hope this roadmap helps you on your journey to becoming a machine learning ex
 
 ## Prerequisite
 
-     Before diving into machine learning, it's important to have a strong foundation in programming and data analysis. These prerequisite resources will help you build the necessary skills.
+Before diving into machine learning, it's important to have a strong foundation in programming and data analysis. These prerequisite resources will help you build the necessary skills.
 
 - [Beginner Python Course](https://www.youtube.com/watch?v=rfscVS0vtbw&t=400s)
 - [Data Analysis with Python](https://www.youtube.com/watch?v=r-uOLxNrNk8)
@@ -26,7 +26,7 @@ We hope this roadmap helps you on your journey to becoming a machine learning ex
 
 ## Machine Learning
 
-    In this step, you'll learn the basics of machine learning and start implementing simple models.
+In this step, you'll learn the basics of machine learning and start implementing simple models.
 
 - [Machine Learning Overview](https://vas3k.com/blog/machine_learning/)
 - [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
@@ -39,11 +39,11 @@ We hope this roadmap helps you on your journey to becoming a machine learning ex
 
 ## Advance Machine learning
 
-     Once you have a solid understanding of the basics, you can move on to more advanced machine learning techniques.
+Once you have a solid understanding of the basics, you can move on to more advanced machine learning techniques.
 
 ## Machine Learning System Design
 
-    In this step, you'll learn how to design machine learning systems that can be deployed in production environments.
+In this step, you'll learn how to design machine learning systems that can be deployed in production environments.
 
 - [ML System Design Template For MLE Interviews](https://www.mle-interviews.com/ml-design-template)
 - [Architecting a Machine Learning Pipeline](https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7)
@@ -51,12 +51,13 @@ We hope this roadmap helps you on your journey to becoming a machine learning ex
 - [Machine Learning System Design Blog](https://becominghuman.ai/machine-learning-system-design-f2f4018f2f8)
 
 ## Model Deployment and MLops (optional)
-    If you're interested in deploying machine learning models in production, this step will provide resources for learning about the process.
+
+If you're interested in deploying machine learning models in production, this step will provide resources for learning about the process.
     
 - [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 
 ## Additional Resources
 
-    These resources provide additional information and practice questions to help you continue learning and improving your skills in machine learning.
+These resources provide additional information and practice questions to help you continue learning and improving your skills in machine learning.
 I hope this helps! Let me know if you have any other questions.
 
