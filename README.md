@@ -24,8 +24,8 @@ Before diving into machine learning, it's important to have a strong foundation 
 - [Data Analysis with Python](https://www.youtube.com/watch?v=r-uOLxNrNk8)
 - [Data Cleaning with Python](https://www.kaggle.com/learn/data-cleaning)
 - Books: 
-          "Data Science from Scratch" by Joel Grus: This book provides a comprehensive introduction to data science, including topics like probability, statistics, machine learning, and data visualization.
-          "The Data Science Handbook" edited by Field Cady and Carl Shan: This book is a collection of interviews with data scientists, in which they share their experiences and advice for aspiring data scientists.
+          - "Data Science from Scratch" by Joel Grus: This book provides a comprehensive introduction to data science, including topics like probability, statistics, machine learning, and data visualization.
+          - "The Data Science Handbook" edited by Field Cady and Carl Shan: This book is a collection of interviews with data scientists, in which they share their experiences and advice for aspiring data scientists.
 
 ## Machine Learning
 
