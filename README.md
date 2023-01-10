@@ -23,9 +23,6 @@ Before diving into machine learning, it's important to have a strong foundation 
 - [Beginner Python Course](https://www.youtube.com/watch?v=rfscVS0vtbw&t=400s)
 - [Data Analysis with Python](https://www.youtube.com/watch?v=r-uOLxNrNk8)
 - [Data Cleaning with Python](https://www.kaggle.com/learn/data-cleaning)
-- Books: 
-          ###"Data Science from Scratch" by Joel Grus: This book provides a comprehensive introduction to data science, including topics like probability, statistics, machine learning, and data visualization.
-          ###"The Data Science Handbook" edited by Field Cady and Carl Shan: This book is a collection of interviews with data scientists, in which they share their experiences and advice for aspiring data scientists.
 
 ## Machine Learning
 
@@ -60,6 +57,9 @@ If you're interested in deploying machine learning models in production, this st
 - [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 
 ## Additional Resources
+
+- "Data Science from Scratch" by Joel Grus: This book provides a comprehensive introduction to data science, including topics like probability, statistics, machine learning, and data visualization.
+- "The Data Science Handbook" edited by Field Cady and Carl Shan: This book is a collection of interviews with data scientists, in which they share their experiences and advice for aspiring data scientists.
 
 These resources provide additional information and practice questions to help you continue learning and improving your skills in machine learning.
 I hope this helps! Let me know if you have any other questions.
