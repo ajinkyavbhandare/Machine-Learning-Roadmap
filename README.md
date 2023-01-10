@@ -62,3 +62,4 @@ These resources provide additional information and practice questions to help yo
 
 - ["Data Science from Scratch"](/books/Joel_Grus_Data_Science_from_Scratch_First_Princ.pdf) by Joel Grus: This book provides a comprehensive introduction to data science, including topics like probability, statistics, machine learning, and data visualization.
 - ["The Data Science Handbook"](/books/The-Data-Science-Handbook.pdf) edited by Field Cady and Carl Shan: This book is a collection of interviews with data scientists, in which they share their experiences and advice for aspiring data scientists.
+- [Machine Learning Algorithms & Models Explained with Python](https://medium.com/coders-camp/all-machine-learning-algorithms-models-explained-adcd95d5fb3c)
