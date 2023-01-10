@@ -61,6 +61,6 @@ If you're interested in deploying machine learning models in production, this st
 These resources provide additional information and practice questions to help you continue learning and improving your skills in machine learning.
 
 - ["Data Science from Scratch"](/books/Joel_Grus_Data_Science_from_Scratch_First_Princ.pdf) by Joel Grus: This book provides a comprehensive introduction to data science, including topics like probability, statistics, machine learning, and data visualization.
-- ["The Data Science Handbook"](/books/The-Data-Science-Handbook.pdf) edited by Field Cady and Carl Shan: This book is a collection of interviews with data scientists, in which they share their experiences and advice for aspiring data scientists.
+- ["The Data Science Handbook"](/books/The%20Data%20Science%20Handbook.pdf) edited by Field Cady and Carl Shan: This book is a collection of interviews with data scientists, in which they share their experiences and advice for aspiring data scientists.
 - ["Deep Learning"](/books/Ian%20Goodfellow%2C%20Yoshua%20Bengio%2C%20Aaron%20Courville%20-%20Deep%20Learning%20(2017%2C%20MIT).pdf) by Yoshua Bengio, Ian Goodfellow, and Aaron Courville : This book provides a comprehensive introduction to deep learning, including its mathematical foundations, and covers a wide range of advanced topics such as unsupervised feature learning, structured prediction, and generative models.
 - [Machine Learning Algorithms & Models Explained with Python](https://medium.com/coders-camp/all-machine-learning-algorithms-models-explained-adcd95d5fb3c)
