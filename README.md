@@ -59,7 +59,7 @@ If you're interested in deploying machine learning models in production, this st
 ## Additional Resources
 
 - ["Data Science from Scratch"](/books/Joel_Grus_Data_Science_from_Scratch_First_Princ.pdf) by Joel Grus: This book provides a comprehensive introduction to data science, including topics like probability, statistics, machine learning, and data visualization.
-- "The Data Science Handbook" edited by Field Cady and Carl Shan: This book is a collection of interviews with data scientists, in which they share their experiences and advice for aspiring data scientists.
+- ["The Data Science Handbook"](/books/The Data Science Handbook.pdf) edited by Field Cady and Carl Shan: This book is a collection of interviews with data scientists, in which they share their experiences and advice for aspiring data scientists.
 
 These resources provide additional information and practice questions to help you continue learning and improving your skills in machine learning.
 I hope this helps! Let me know if you have any other questions.
