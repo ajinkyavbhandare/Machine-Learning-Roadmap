@@ -62,5 +62,5 @@ If you're interested in deploying machine learning models in production, this st
 - ["The Data Science Handbook"](/books/The-Data-Science-Handbook.pdf) edited by Field Cady and Carl Shan: This book is a collection of interviews with data scientists, in which they share their experiences and advice for aspiring data scientists.
 
 These resources provide additional information and practice questions to help you continue learning and improving your skills in machine learning.
-I hope this helps! Let me know if you have any other questions.
+
 
