@@ -65,3 +65,4 @@ These resources provide additional information and practice questions to help yo
 - ["Deep Learning"](/books/Ian%20Goodfellow%2C%20Yoshua%20Bengio%2C%20Aaron%20Courville%20-%20Deep%20Learning%20(2017%2C%20MIT).pdf) by Yoshua Bengio, Ian Goodfellow, and Aaron Courville : This book provides a comprehensive introduction to deep learning, including its mathematical foundations, and covers a wide range of advanced topics such as unsupervised feature learning, structured prediction, and generative models.
 - [Machine Learning Algorithms & Models Explained with Python](https://medium.com/coders-camp/all-machine-learning-algorithms-models-explained-adcd95d5fb3c)
 - [mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
+- [Machine Learning Interviews](https://github.com/alirezadir/machine-learning-interview-enlightener/blob/main/README.md) 
