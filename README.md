@@ -6,7 +6,9 @@ The roadmap is divided into six steps: Prerequisite, Machine Learning, Advance M
 
 Whether you're looking to learn about supervised and unsupervised learning, deep learning, or model deployment, this roadmap has you covered. We've included a variety of resources, including online courses, tutorials, and practice questions, to help you build a strong foundation in machine learning and advance your skills.
 
-We hope this roadmap helps you on your journey to becoming a machine learning expert!
+I hope this roadmap helps you on your journey to becoming a machine learning expert!
+
+If there's something you think should be added/improved, please [create an issue](https://github.com/ajinkyavbhandare/Machine-Learning-Roadmap/issues/new).
 
 ## Contents
 - [Prerequisite](https://github.com/ajinkyavbhandare/Machine-Learning-Roadmap#Prerquisite)
