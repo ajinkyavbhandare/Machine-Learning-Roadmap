@@ -68,3 +68,4 @@ These resources provide additional information and practice questions to help yo
 - [Machine Learning Algorithms & Models Explained with Python](https://medium.com/coders-camp/all-machine-learning-algorithms-models-explained-adcd95d5fb3c)
 - [mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
 - [Machine Learning Interviews](https://github.com/alirezadir/machine-learning-interview-enlightener/blob/main/README.md) 
+- [Machine Learning From Scratch ](https://dafriedman97.github.io/mlbook/content/introduction.html)
