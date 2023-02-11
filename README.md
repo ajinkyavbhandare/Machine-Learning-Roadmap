@@ -25,7 +25,7 @@ Before diving into machine learning, it's important to have a strong foundation 
 - [Beginner Python Course](https://www.youtube.com/watch?v=rfscVS0vtbw&t=400s)
 - [Data Analysis with Python](https://www.youtube.com/watch?v=r-uOLxNrNk8)
 - [Data Cleaning with Python](https://www.kaggle.com/learn/data-cleaning)
-  Note: While web scraping can be useful in obtaining data for machine learning projects, it is not a fundamental skill required for machine learning.
+  **Note: While web scraping can be useful in obtaining data for machine learning projects, it is not a fundamental skill required for machine learning.**
 - [web scraping with python](https://www.youtube.com/watch?v=XVv6mJpFOb0)
 ## Machine Learning
 
