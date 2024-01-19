@@ -43,7 +43,9 @@ In this step, you'll learn the basics of machine learning and start implementing
 ## Advance Machine learning
 
 Once you have a solid understanding of the basics, you can move on to more advanced machine learning techniques.
-
+- [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+- [Large Language Models](https://learn.activeloop.ai/)
+  
 ## Machine Learning System Design
 
 In this step, you'll learn how to design machine learning systems that can be deployed in production environments.
