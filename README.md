@@ -58,7 +58,8 @@ In this step, you'll learn how to design machine learning systems that can be de
 ## Model Deployment and MLops (optional)
 
 If you're interested in deploying machine learning models in production, this step will provide resources for learning about the process.
-    
+
+- [mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
 - [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 
 ## Additional Resources
