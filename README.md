@@ -44,6 +44,7 @@ In this step, you'll learn the basics of machine learning and start implementing
 
 Once you have a solid understanding of the basics, you can move on to more advanced machine learning techniques.
 - [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+- [Create a Large Language Model from Scratch with Python](https://www.youtube.com/watch?v=UU1WVnMk4E8)
 - [Large Language Models](https://learn.activeloop.ai/)
 - [Deep Learning for Computer Vision with Python and TensorFlow – Complete Course](https://www.youtube.com/watch?v=IA3WxTTPXqQ)
   
